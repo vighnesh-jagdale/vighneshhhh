@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Vighnesh Jagdale
 🎯 Aspiring Software Engineer @Google  
-💻 Learning: DSA (C++), Web Dev (MERN), Cybersecurity (Ethical Hacking)  
-🔥 Currently building: Projects + Daily Leetcode + Labs  
+💻 Learning: DSA (C++), Web Dev (Java Spring Boot)
+🔥 Currently building: Projects + Daily Leetcode
 📚 I share what I learn. Let's connect!
 
 ## 🚀 Tech Stack
-- 💻 C++, JavaScript, Python
-- 🌐 HTML, CSS, React, Node.js
-- 🛡️ Wireshark, Burp Suite, TryHackMe
+- 💻 C++, Java, Python
+- 🌐 HTML, CSS, Java, Spring
 - 🛠️ Git, GitHub, VS Code
