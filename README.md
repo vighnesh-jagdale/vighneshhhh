@@ -1,10 +1,31 @@
-# 👋 Hi, I'm Vighnesh Jagdale
-🎯 Aspiring Software Engineer @Google  
-💻 Learning: DSA (C++), Web Dev (Java Spring Boot)
-🔥 Currently building: Projects + Daily Leetcode
-📚 I share what I learn. Let's connect!
+# Hi, I'm Vighnesh Jagdale 
 
-## 🚀 Tech Stack
-- 💻 C++, Java, Python
-- 🌐 HTML, CSS, Java, Spring
-- 🛠️ Git, GitHub, VS Code
+Final Year BSc Computer Science Student  
+Aspiring Java Full Stack Developer  
+
+## Currently Learning
+- Advanced SQL & Database Design
+- Hibernate & Spring Boot
+- REST API Development
+- Data Structures & Algorithms in Java
+
+## Tech Stack
+- Java (Core + Advanced)
+- JDBC & SQL
+- Spring Framework (MVC Basics)
+- Git & GitHub
+- OOP & Problem Solving
+
+## Current Goals (2026)
+- Build strong backend development skills
+- Create real-world Spring Boot projects
+- Become internship-ready as a Java Developer
+
+## What You'll Find Here
+- Java DSA Practice
+- Java Console Projects
+- Backend & Spring Projects (Coming Soon)
+
+---
+
+⭐ Learning in public & growing every day
